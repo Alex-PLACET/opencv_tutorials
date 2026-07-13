@@ -1,0 +1,12 @@
+name: opencv-tutorial
+channels:
+  - https://prefix.dev/emscripten-forge-4x
+  - https://prefix.dev/conda-forge
+dependencies:
+  - ipycanvas
+  - ipywidgets
+  - matplotlib
+  - numpy
+  - opencv
+  - xeus-python
+  - ipympl
